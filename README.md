@@ -1,6 +1,9 @@
 # Scratchievements
 
 Achievements for Scratch projects.
+ 
+[!WARNING]  
+Your achievements are saved in the browser. They are not associated to your Scratch account.
 
 ## Supported codes
 
